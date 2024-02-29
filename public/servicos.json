@@ -1,0 +1,76 @@
+{
+    "services": [
+        {
+            "name": "Limpeza de Pele",
+            "title": "Limpeza de Pele",
+            "id": 0,
+            "url": "images/Limpeza-de-pele.jpg",
+            "textoServices": "A limpeza de pele é excelente para remover sujidades, controlar a oleosidade, prevenir espinhas e revitalizar a pele. Recomenda-se realizar o procedimento uma vez por mês ou a cada 45 dias, dependendo das necessidades da sua pele, para mantê-la saudável e com uma aparência renovada.",
+            "Duracao": 60
+        },
+        {
+            "name": "Peeling Ultrassônico",
+            "title": "Peeling Ultrassônico",
+            "id": 1,
+            "url": "images/Peeling-ultrassônico.jpg",
+            "textoServices": "O peeling ultrassônico é um procedimento suave que usa ondas ultrassônicas para esfoliar a pele, removendo células mortas e reduzindo a oleosidade. Ele ajuda a controlar a produção de óleo, minimizando o brilho excessivo e os poros dilatados. Além disso, contribui para uma pele mais uniforme e com textura melhorada.",
+            "Duracao": 30
+        },
+        {
+            "name": "Drenagem Linfática",
+            "title": "Drenagem Linfática",
+            "id": 2,
+            "url": "images/Drenagem-línfática.jpg",
+            "textoServices": "A drenagem linfática é uma massagem que aliada ao uso do vacuum, atua estimulando o sistema linfático para a removação de toxinas e líquidos retidos nos tecidos. Esse método, utilizando o vacuum, potencializa a técnica, melhorando a circulação, reduzindo o inchaço e contribuindo para a regeneração dos tecidos, fortalecendo o sistema imunológico e alivando problemas como edemas, celulite e retenção de líquidos.",
+            "Duracao": 50
+        },
+        {
+            "name": "Nutrição Facial",
+            "title": "Nutrição Facial",
+            "id": 3,
+            "url": "images/Nutrição-facial.jpg",
+            "textoServices": "A nutrição facial tem como objetivo fornecer à pele os nutrientes necessários, como vitaminas, antioxidantes e hidratação. Isso ajuda a fortalecer a barreira de pele, reduzir a secura, prevenir danos causados pelo ambiente, estimular a produção de colágeno, diminuir linhas finas e rugas, além de promover uma aparência mais radiante e saudável.",
+            "Duracao": 60
+        },
+        {
+            "name": "Massagem Relaxante",
+            "title": "Massagem Relaxante",
+            "id": 4,
+            "url": "images/Massagem-Relaxante.jpg",
+            "textoServices": "A massagem relaxante é uma técnica que utiliza movimentos suaves e ritmados para reduzir a tensão muscular, aliviar o estresse e promover um estado geral de relaxamento. Ela pode ajudar a melhorar a circulação sanguínea, aliviar dores musculares, reduzir a ansiedade e melhorar a qualidade do sono. É uma ótima opção para quem busca relaxamento e bem-estar físico e mental.",
+            "Duracao": 60
+        },
+        {
+            "name": "Dermaplaning",
+            "title": "Dermaplaning",
+            "id": 5,
+            "url": "images/Dermaplaing.jpg",
+            "textoServices": "O Dermaplaning é um procedimento de cuidados com a pele que utiliza uma lâmina para remover células mortas e pelos faciais. Isso ajuda a melhorar a textura da pele, suaviza rugas finas, promove a renovação celular e proporciona uma aparência mais radiantes e suave. Além disso, pode ajudar na melhor absorção de produtos para a pele.",
+            "Duracao": 40
+        },
+        {
+            "name": "Microagulhamento",
+            "title": "Microagulhamento",
+            "id": 6,
+            "url": "images/Microagulhamento.jpg",
+            "textoServices": "O microagulhamento é um procedimento que envolve o uso de um dispositivo com pequenas agulhas para criar microperfurações na pele. Essas microlesões estimulam a produção natural de colágeno e elastina, promovendo a renovação celular, melhorando a textura da pele e reduzindo cicatrizes de acne, rugas, linhas finas e manchas.",
+            "Duracao": 60
+        },
+        {
+            "name": "Ventosaterapia",
+            "title": "Ventosaterapia",
+            "id": 7,
+            "url": "images/Ventosaterapia.jpg",
+            "textoServices": "A ventosaterapia é uma antiga técnica terapêutica que utiliza copos de vidro ou plástico para criar sucção na pele, promovendo a circulação sanguínea local, alívio da dor muscular e relaxamento. Alguns dos benefícios incluem a redução do estresse, melhoria da circulação, alívio da dor e uma possível contribuição para o relaxamento muscular.",
+            "Duracao": 30
+        },
+        {
+            "name": "Redução de medidas",
+            "title": "Tratamento para redução de medidas / Gordura abdominal",
+            "id": 8,
+            "url": "images/Tratamento-Redução-Medidas.jpg",
+            "textoServices": "O tratamento de redução abdominal é feito através de sessões personalizadas que são definidas á partir de uma consulta avaliativa. Nelas podem estar inclusos sessões de Detox, Ozonioterapia que é um potente anti-inflamatório, ultrassom, hidrolipoclasia não aspirativa, eletrolipólise e diversos procedimentos de alto padrão, garantindo resultados evidentes e duradouros.",
+            "Duracao": 30
+        }
+    ]
+}
