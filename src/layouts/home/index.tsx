@@ -1,3 +1,5 @@
+import { Contato } from "../../components/Contato"
+import { Depoimentos } from "../../components/Depoimentos"
 import { Footer } from "../../components/Footer"
 import { Header } from "../../components/Header"
 import { Servicos } from "../../components/Servicos"
@@ -10,6 +12,8 @@ export const Home = () => {
       <Header />
       <Sobremim/>
       <Servicos />
+      <Depoimentos />
+      <Contato />
       <Footer />
       <Whatsapp />
     </>
