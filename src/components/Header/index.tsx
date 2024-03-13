@@ -19,7 +19,7 @@ export const Header = () => {
         <ul className="md:flex md:justify-center">
           <li className="max-md:my-2"><label onClick={() => navigate('/')} className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Home</label></li>
           <li className="max-md:my-2"><a href='/#sobremin' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Sobre min</a></li>
-          <li className="max-md:my-2"><a href='/#serviços' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Serviços</a></li>
+          <li className="max-md:my-2"><a href='/#servicos' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Serviços</a></li>
           <li className="max-md:my-2"><a href='/#depoimentos' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Depoimentos</a></li>
           <li className="max-md:my-2"><a href='/#contato' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Contato</a></li>
         </ul>
