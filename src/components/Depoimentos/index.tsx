@@ -12,7 +12,7 @@ export const Depoimentos = () => {
     ];
 
     return (
-        <div className="" id="Depoimentos">
+        <div className="" id="depoimentos">
             <h2 className="text-6xl mx-12 font-['Tangerine']">Depoimentos</h2>
             <hr></hr>
             <Carousel

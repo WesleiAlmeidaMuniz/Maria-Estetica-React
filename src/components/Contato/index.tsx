@@ -8,7 +8,7 @@ export const Contato = () => {
         {type: 'text', placeholder: 'Mensagem', labelInput: 'Mensagem'},
     ];
     return (
-        <div className="" id="Contato">
+        <div className="" id="contato">
             <h1 className="text-6xl mx-12 font-['Tangerine']">Contato</h1>
             <hr></hr>
             <div className="my-12 flex items-center justify-center max-md:block">

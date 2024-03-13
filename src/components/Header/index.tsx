@@ -17,11 +17,11 @@ export const Header = () => {
         </div>
 
         <ul className="md:flex md:justify-center">
-          <li className="max-md:my-2"><label onClick={() => navigate('/')} className="px-2 font-bold text-gray-500 hover:text-white transition" >Home</label></li>
-          <li className="max-md:my-2"><a href="#sobremin" className="px-2 font-bold text-gray-500 hover:text-white transition">Sobre min</a></li>
-          <li className="max-md:my-2"><a href="#serviços" className="px-2 font-bold text-gray-500 hover:text-white transition">Serviços</a></li>
-          <li className="max-md:my-2"><a href="#depoimentos" className="px-2 font-bold text-gray-500 hover:text-white transition">Depoimentos</a></li>
-          <li className="max-md:my-2"><a href="#contato" className="px-2 font-bold text-gray-500 hover:text-white transition">Contato</a></li>
+          <li className="max-md:my-2"><label onClick={() => navigate('/')} className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Home</label></li>
+          <li className="max-md:my-2"><a href='/#sobremin' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Sobre min</a></li>
+          <li className="max-md:my-2"><a href='/#serviços' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Serviços</a></li>
+          <li className="max-md:my-2"><a href='/#depoimentos' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Depoimentos</a></li>
+          <li className="max-md:my-2"><a href='/#contato' className="px-2 font-bold text-gray-500 hover:text-white transition cursor-pointer">Contato</a></li>
         </ul>
 
         <div>

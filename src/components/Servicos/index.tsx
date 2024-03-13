@@ -20,12 +20,14 @@ export const Servicos = () => {
         }
     }, [])
 
+    console.log(servicos);
+
     useEffect(() => {
         getServices('');
     }, [getServices])
 
     return (
-        <div className="" id="serviços">
+        <div className="" id="servicos">
             <h2 className="text-6xl mx-12 font-['Tangerine']">Serviços</h2>
             <hr></hr>
             <div className="flex justify-center flex-wrap my-10 mx-10  max-md:flex-col max-md:py-5">

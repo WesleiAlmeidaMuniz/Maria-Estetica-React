@@ -30,13 +30,12 @@ export const Footer = () => {
                     <ul>
                         <li className="my-2"><label className="cursor-pointer text-gray-500" onClick={() => navigate('/')}>Home</label>
                         </li>
-                        <li className="my-2" ><a className="my-5  text-gray-500" href="#sobremin">Sobre min</a>
+                        <li className="my-2"><a href="/#sobremin" className="my-5 cursor-pointer text-gray-500" >Sobre min</a>
                         </li>
-                        <li className="my-2"><a className="my-5  text-gray-500" href="#serviços">Serviços</a>
+                        <li className="my-2"><a href="/#servicos" className="my-5 cursor-pointer text-gray-500">Serviços</a>
                         </li>
-                        <li className="my-2" ><a className="my-5  text-gray-500" href="#depoimentos">Depoimentos</a></li>
-                        <li className="my-2" ><a className="my-5  text-gray-500" href="#contato">Contato</a>
-                        </li>
+                        <li className="my-2"><a href="/#depoimentos" className="my-5 cursor-pointer text-gray-500">Depoimentos</a></li>
+                        <li className="my-2"><a href="/#contato" className="my-5 cursor-pointer text-gray-500">Contato</a></li>
                     </ul>
                 </div>
             </footer>
