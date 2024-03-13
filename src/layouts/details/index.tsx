@@ -36,7 +36,7 @@ export const Details = () => {
             {servicos.map(servico => (
                 servico.id === numberID ?
                     (<div className="w-4/5 flex items-center justify-center m-auto flex-col text-center">
-                        <h1 className="font-medium text-5xl my-10">{servico.title}</h1>
+                        <h1 className="font-medium text-5xl my-10 max-md:text-4xl">{servico.title}</h1>
                         <p className="text-center font-light my-5 indent-4 leading-7">{servico.textoServices}</p>
                         <a className="font-bold text-1xl my-10" href="https://wa.me/5511946101374?text=Olá Maria Silva, tudo bem? gostaria de um orçamento, por favor." target="_blank" rel="noreferrer">Duração de {servico.Duracao} minutos, Faça sua cotação aqui!</a>
                     </div>)
